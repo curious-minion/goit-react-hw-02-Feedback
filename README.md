@@ -1,0 +1,4 @@
+Feedback widget
+
+    Feedback
+    Statistics
