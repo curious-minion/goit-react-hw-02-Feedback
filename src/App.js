@@ -44,7 +44,7 @@ class App extends Component {
               positiveFeedbackRate={Math.round((good * 100) / this.getTotal())}
             ></Statistics>
           ) : (
-            <Notification message="No feedback given"></Notification>
+            <Notification message="No feedback given"/>
           )}
         </Section>
       </Container>
